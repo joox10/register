@@ -2,7 +2,8 @@
   "description": "My Personal Portfolio Website",
   "repo": "https://github.com/joox10",
   "owner": {
-    "email": "joox10dvا@gmail.com"
+    "email": "joox10dv@gmail.com",
+    "username": "joox10"
   },
   "records": {
     "CNAME": "joox-10.web.app"
