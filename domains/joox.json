@@ -1,11 +1,12 @@
 {
-  "description": "My Personal Portfolio Website",
-  "repo": "https://github.com/joox10",
   "owner": {
     "username": "joox10",
     "email": "joox10dev@gmail.com"
   },
-  "records": {
-    "CNAME": "joox-4gw.pages.dev"
+  "record": {
+    "NS": [
+      "ethan.ns.cloudflare.com",
+      "leah.ns.cloudflare.com"
+    ]
   }
 }
